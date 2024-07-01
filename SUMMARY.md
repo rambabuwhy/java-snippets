@@ -2,3 +2,4 @@
 
 * [Cover](README.md)
 * [snippet-1](snippet-1.md)
+* [snippet-2](snippet-2.md)
