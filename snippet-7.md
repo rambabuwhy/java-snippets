@@ -24,8 +24,8 @@ public class FClass{
 
 
 ```
-Identify the correct denition(s) for array arr for which the call NumberFunction.max(arr)
-can return the maximum element from the array arr.
+Identify the correct denition(s) for array arr for which 
+the call NumberFunction.max(arr) can return the maximum element from the array arr.
 
 Integer[] arr = {2, 4, 1, 6, 3};
 Double[] arr = {2.3, 4.2, 1.4, 2.6, 1.3};
