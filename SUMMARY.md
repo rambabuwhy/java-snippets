@@ -6,3 +6,4 @@
 * [snippet-3](snippet-3.md)
 * [snippet-4](snippet-4.md)
 * [snippet-5](snippet-5.md)
+* [snippet-6](snippet-6.md)
