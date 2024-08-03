@@ -7,3 +7,4 @@
 * [snippet-4](snippet-4.md)
 * [snippet-5](snippet-5.md)
 * [snippet-6](snippet-6.md)
+* [snippet-7](snippet-7.md)
