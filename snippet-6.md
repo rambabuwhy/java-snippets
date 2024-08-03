@@ -29,4 +29,8 @@ public class Example{
 4. double[] arr1= {20.5,30.7,56.6,67.8,0.25};
 ```
 
-Solution: The type variable allows any type of array object. Option 1: Integer object array can be passed to the type variable . Option 2: String object array can be passed to the type variable . Option 3: int primitive type array passed to the type variable is invalid. Option 4: double primitive type array passed to the type variable is invalid.
+Solution: \
+Integer\[] arr1 = {10, 20, 30, 40, 50};\
+String\[] arr1 = {"IIT","Madras","Java","Programming"};\
+\
+The type variable allows any type of array object. Option 1: Integer object array can be passed to the type variable . Option 2: String object array can be passed to the type variable . Option 3: int primitive type array passed to the type variable is invalid. Option 4: double primitive type array passed to the type variable is invalid.

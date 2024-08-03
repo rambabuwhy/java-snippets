@@ -33,4 +33,8 @@ Double[] arr = {2.3, 4.2, 1.4, 2.6, 1.3};
 String[] arr = {"Apple", "test", "Apple", "Mango", "Orange"};
 ```
 
-Solution: For function NumberFunction.max(arr), the type T is bounded by Number. Since Integer and Double both inherit from Number, function NumberFunction.max(arr) works correctly on them. However, it does not work for Character and String.
+Solution: \
+Integer\[] arr = {2, 4, 1, 6, 3};\
+Double\[] arr = {2.3, 4.2, 1.4, 2.6, 1.3};\
+\
+For function NumberFunction.max(arr), the type T is bounded by Number. Since Integer and Double both inherit from Number, function NumberFunction.max(arr) works correctly on them. However, it does not work for Character and String.

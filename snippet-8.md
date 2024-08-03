@@ -36,4 +36,8 @@ pq.poll()
 pq.element()
 ```
 
-Solution: Since the while loop checks for if the queue is empty, within the loop the statement at LINE must return the element from the front of the queue and remove it from the queue. Thus, option-2 and option-3 are correct.
+Solution: \
+pq.remove() \
+pq.poll()\
+\
+Since the while loop checks for if the queue is empty, within the loop the statement at LINE must return the element from the front of the queue and remove it from the queue. Thus, option-2 and option-3 are correct.
